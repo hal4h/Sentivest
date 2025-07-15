@@ -2,8 +2,6 @@
 AI-Powered Market Sentiment Tracker (Coming Soon)
 
 
-# 📈 Sentivest – AI-Powered Market Sentiment Tracker (Coming Soon)
-
 > *Decode the market’s mood. Track how the news, Reddit, and Twitter impact your stocks in real time.*
 
 ---
