@@ -77,7 +77,6 @@ It will analyze and visualize real-time sentiment from:
 | Sentiment Model Integration     | 🔜 Upcoming |
 | GPT Summary Feature             | 🔜 Upcoming |
 | Dashboard UI                    | 🔜 Upcoming |
-| Public Demo                     | 🔜 Targeting Q3 2025 |
 
 ---
 
@@ -87,20 +86,4 @@ It will analyze and visualize real-time sentiment from:
 > - Sentiment dashboard mockups
 > - GPT-powered ticker summary card
 > - Real-time price vs. sentiment chart
-
----
-
-## 👩‍💻 Author
-
-**Halah Mhanni**  
-B.CompSci (Hons) + Stats Minor @ University of Manitoba  
-🔗 [LinkedIn](https://linkedin.com/in/halah-mhanni) • [GitHub](https://github.com/hal4h)
-
----
-
-## ⭐ Stay Tuned
-
-- This project is under active development.
-- Watch or star the repo to stay updated!
-- If you're interested in collaboration, feel free to open an issue or reach out.
 
